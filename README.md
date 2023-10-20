@@ -15,3 +15,8 @@ Open Visual Studio Code and click terminal. Then copy the code below to the term
 Install some requirement libraries 
    
       npm install bcrypt mongodb mongoose next-auth
+
+To open project write below code. It will open http://localhost:3000.
+
+      npm run dev
+      
